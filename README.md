@@ -1,4 +1,5 @@
 # Water Quality Prediction and Monitoring using Machine Learning
+Link : https://water-quality-frontend-seven.vercel.app/
 
 A full-stack machine learning application for real-time water quality assessment and monitoring. This system predicts water potability and provides actionable recommendations based on WHO standards using ensemble ML models.
 
